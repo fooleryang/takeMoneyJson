@@ -1,0 +1,80 @@
+{
+  "prodCode": "EW9258",
+  "prodRegCode": "Z7001426002376",
+  "prodName": "阳光金创利9号（7天最低持有）",
+  "totalOnServer": 24,
+  "updatedAt": "2026-10-30T16:36:13+08:00",
+  "count": 10,
+  "navList": [
+    {
+      "date": "2026-10-28",
+      "unitNav": "1.0032",
+      "cumNav": "1.0032",
+      "astNetVal": "",
+      "updateTime": "2026-10-29T16:37:39"
+    },
+    {
+      "date": "2026-10-27",
+      "unitNav": "1.0030",
+      "cumNav": "1.0030",
+      "astNetVal": "",
+      "updateTime": "2026-10-28T16:22:43"
+    },
+    {
+      "date": "2026-10-26",
+      "unitNav": "1.0029",
+      "cumNav": "1.0029",
+      "astNetVal": "",
+      "updateTime": "2026-10-27T17:28:53"
+    },
+    {
+      "date": "2026-10-23",
+      "unitNav": "1.0028",
+      "cumNav": "1.0028",
+      "astNetVal": "",
+      "updateTime": "2026-10-26T15:33:17"
+    },
+    {
+      "date": "2026-10-22",
+      "unitNav": "1.0027",
+      "cumNav": "1.0027",
+      "astNetVal": "",
+      "updateTime": "2026-10-23T18:13:02"
+    },
+    {
+      "date": "2026-10-21",
+      "unitNav": "1.0027",
+      "cumNav": "1.0027",
+      "astNetVal": "",
+      "updateTime": "2026-10-22T16:15:23"
+    },
+    {
+      "date": "2026-10-20",
+      "unitNav": "1.0024",
+      "cumNav": "1.0024",
+      "astNetVal": "",
+      "updateTime": "2026-10-21T16:06:02"
+    },
+    {
+      "date": "2026-10-19",
+      "unitNav": "1.0023",
+      "cumNav": "1.0023",
+      "astNetVal": "",
+      "updateTime": "2026-10-20T16:49:08"
+    },
+    {
+      "date": "2026-10-16",
+      "unitNav": "1.0022",
+      "cumNav": "1.0022",
+      "astNetVal": "",
+      "updateTime": "2026-10-19T16:13:43"
+    },
+    {
+      "date": "2026-10-15",
+      "unitNav": "1.0021",
+      "cumNav": "1.0021",
+      "astNetVal": "",
+      "updateTime": "2026-10-16T15:30:38"
+    }
+  ]
+}

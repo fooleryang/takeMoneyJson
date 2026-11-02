@@ -1,0 +1,80 @@
+{
+  "prodCode": "EW8819",
+  "prodRegCode": "Z7001426002015",
+  "prodName": "阳光金创利日开2号",
+  "totalOnServer": 34,
+  "updatedAt": "2026-10-30T16:37:09+08:00",
+  "count": 10,
+  "navList": [
+    {
+      "date": "2026-10-28",
+      "unitNav": "1.0057",
+      "cumNav": "1.0057",
+      "astNetVal": "",
+      "updateTime": "2026-10-29T16:37:39"
+    },
+    {
+      "date": "2026-10-27",
+      "unitNav": "1.0055",
+      "cumNav": "1.0055",
+      "astNetVal": "",
+      "updateTime": "2026-10-28T16:22:43"
+    },
+    {
+      "date": "2026-10-26",
+      "unitNav": "1.0053",
+      "cumNav": "1.0053",
+      "astNetVal": "",
+      "updateTime": "2026-10-27T17:28:53"
+    },
+    {
+      "date": "2026-10-23",
+      "unitNav": "1.0051",
+      "cumNav": "1.0051",
+      "astNetVal": "",
+      "updateTime": "2026-10-26T15:33:17"
+    },
+    {
+      "date": "2026-10-22",
+      "unitNav": "1.0051",
+      "cumNav": "1.0051",
+      "astNetVal": "",
+      "updateTime": "2026-10-23T18:13:02"
+    },
+    {
+      "date": "2026-10-21",
+      "unitNav": "1.0051",
+      "cumNav": "1.0051",
+      "astNetVal": "",
+      "updateTime": "2026-10-22T16:15:23"
+    },
+    {
+      "date": "2026-10-20",
+      "unitNav": "1.0046",
+      "cumNav": "1.0046",
+      "astNetVal": "",
+      "updateTime": "2026-10-21T16:06:02"
+    },
+    {
+      "date": "2026-10-19",
+      "unitNav": "1.0045",
+      "cumNav": "1.0045",
+      "astNetVal": "",
+      "updateTime": "2026-10-20T16:49:08"
+    },
+    {
+      "date": "2026-10-16",
+      "unitNav": "1.0042",
+      "cumNav": "1.0042",
+      "astNetVal": "",
+      "updateTime": "2026-10-19T16:13:43"
+    },
+    {
+      "date": "2026-10-15",
+      "unitNav": "1.0041",
+      "cumNav": "1.0041",
+      "astNetVal": "",
+      "updateTime": "2026-10-16T15:30:38"
+    }
+  ]
+}
